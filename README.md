@@ -31,7 +31,7 @@
 ---
 ## Мои ссылки
 <div align="center">
-  <a href="https://vk.com/zxdulsed">
+  <a href="https://vk.com/zxcdulsed">
     <img alt="VK" src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
 
